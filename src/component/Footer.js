@@ -64,7 +64,7 @@ const Footer = () => {
           </ul>
         </div>
       </footer>
-      <div className="copy" style={{ backgroundColor: "#3d63b0", width: "100%" }}>
+      <div className="copy" style={{ backgroundColor: "#3d63b0", padding: "20px 0" }}>
   <div className="container">
     <div className="copyright-text">
       <p style={{ textAlign: "center", color: "white" }}>
